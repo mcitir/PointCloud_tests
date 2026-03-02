@@ -29,13 +29,16 @@ Run with `jupyther-lab` command.
 
 **Step 1:** Link to download the dataset: https://www.kaggle.com/datasets/priteshraj10/point-cloud-lidar-toronto-3d
 
-![picture 0](../images/e8cf655d206245b6a6d53f5eb9c10ae7c0ad86a4cb0ed2e63043ea92b532bbe5.png)  
+![picture 0](./images/e8cf655d206245b6a6d53f5eb9c10ae7c0ad86a4cb0ed2e63043ea92b532bbe5.png)  
 
 **Step 2:** Unzip and rename as below:
 
-![picture 1](../images/44c675baec0808d1ff73617e2cedec9e2a4db8b601c48bdc71c71b7b34fd1eb5.png)  
+![picture 1](./images/44c675baec0808d1ff73617e2cedec9e2a4db8b601c48bdc71c71b7b34fd1eb5.png)  
 
 
 
 ### Data I/O & Visualization Tests
 
+#### Example import
+
+![picture 2](./images/0d9d62eba96cb8097c357a33d25e338378a327a79f1a73a4d7afe718df63de5b.gif) 
