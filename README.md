@@ -39,6 +39,10 @@ Run with `jupyther-lab` command.
 
 ### Data I/O & Visualization Tests
 
+Take a look: `01_data_exploration.ipynb`
+
+But first don't forget to download dataset as above.
+
 #### Example import
 
 ![picture 2](./images/0d9d62eba96cb8097c357a33d25e338378a327a79f1a73a4d7afe718df63de5b.gif) 
