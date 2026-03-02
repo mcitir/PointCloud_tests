@@ -1,0 +1,11 @@
+# Ignore the entire dataset directory and all of its contents
+dataset/
+
+# Ignore large point cloud file formats globally just in case they are placed outside
+*.ply
+*.las
+*.laz
+
+# Ignore python cache and jupyter notebook checkpoints
+__pycache__/
+.ipynb_checkpoints/
